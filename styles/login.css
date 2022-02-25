@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://community.sephora.com/sephora/attachments/sephora/besides-beauty-forum-board/10243/2/SEPHORA_Beauty%20Sponges.jpg");
+  
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#logincontainer{
+   border-radius: 10px;
+    text-align: center;
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+center{
+    margin-top: 200px;
+    margin-bottom:200px;
+}
+#crAcc{
+   border-radius: 10px;
+}
+#logincontainer input{
+    width: 50%; height:40px;
+    text-align: center;
+}
+#logincontainer button{
+    width:30%;
+    height: 35px;
+    background-color:white;
+    border-radius: 10px;
+}
+#logincontainer button:hover{
+    background-color:black;
+    color:white;
+    width:35%;
+    height: 40px;
+}
+ #crAcc:hover{
+    color:black;
+    background-color:white;
+    width: 55%; height:50px;
+}
